@@ -355,3 +355,9 @@ MigrationBackup/
 .ionide/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#vs
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
