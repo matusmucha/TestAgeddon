@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/matusmucha/TestAgeddon#readme",
   "devDependencies": {
-    "@playwright/test": "^1.52.0",
-    "@types/node": "^22.15.21"
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
   }
 }
